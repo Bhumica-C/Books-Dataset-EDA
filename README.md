@@ -1,5 +1,5 @@
 # Exploratory Data Analysis — Books Dataset
-## Task 2
+## 
 
 ## Project Overview
 Performed EDA on a self-scraped dataset of 1000 
@@ -42,7 +42,7 @@ in book pricing and ratings.
 - price_distribution.png
 - rating_distribution.png
 - price_by_rating.png
-- Internship2_Task2_EDA.ipynb
+- Task2_EDA.ipynb
 - README.md
 
 ## 👤 Author
